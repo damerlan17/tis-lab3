@@ -1,0 +1,14 @@
+{
+  "employer": {
+    "username": "testerEmployer",
+    "password": "Password1"
+  },
+  "student": {
+    "username": "testerStudent",
+    "password": "Password1"
+  },
+  "admin": {
+    "username": "testerAdmin",
+    "password": "Password1"
+  }
+}
